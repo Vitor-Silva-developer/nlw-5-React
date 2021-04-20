@@ -1,0 +1,8 @@
+{
+  "name": "podcastr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Vitor-Silva-developer/nlw-5-React.git",
+  "author": "Vitor Silva <developer.vitorsilva@gmail.com>",
+  "license": "MIT"
+}
