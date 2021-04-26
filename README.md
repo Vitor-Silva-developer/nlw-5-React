@@ -10,6 +10,12 @@
 
 ![Podcastr preview](.github/app-preview.png)
 
+## About the project
+
+<h4>
+  This project was developed during the next level week. it was my first contact with Next js and i loved this technology, for sure i'll study much more about that.
+</h4>
+
 ## Tecnologies
 
 - [ReactJS](https://reactjs.org/)
